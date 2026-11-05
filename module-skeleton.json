@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-web-delivery-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-web-delivery",
+  "presentation": "dart-desktop",
+  "package": "module_cms_web_delivery_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/web-delivery.md",
+  "presentationPlan": "projects/cms/features/web-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
